@@ -64,10 +64,9 @@
 ---
 
 ## 📫 Let's Connect  
-📧 **Email:** your-email@example.com  
+📧 **Email:** kkskumarsahu31@gmail.com  
 💼 **LinkedIn:** [Your LinkedIn](#)  
-🌐 **Portfolio:** [Your Portfolio Link](#)  
-💻 **GitHub:** [@your-username](#)  
+🌐 **Portfolio:*[* [Your Portfolio Link](#) ](https://portss-gold.vercel.app/)  
 
 ⭐ *"Always learning, always building, always improving"*  
 
