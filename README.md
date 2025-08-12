@@ -8,10 +8,12 @@
 ---
 
 ## 🎯 Interests  
-- ☁️ **Generative AI** – Learning RAG Applications & HuggingFace  
-- 🌐 **Web Development** – Full-stack apps with AI integrations  
-- ☕ **C++** – Competitive programming & algorithms  
-- 🛠️ **Cloud Computing** – Designing scalable cloud-based solutions  
+- 🤖 **Generative AI & LLMs** – Experimenting with RAG architectures, HuggingFace models, and AI-powered applications  
+- 💻 **Full-Stack MERN Development** – Crafting responsive, intelligent web apps with seamless user experiences  
+- ⚡ **C++ & DSA** – Sharpening problem-solving skills and tackling competitive programming challenges  
+- ☁️ **Cloud & DevOps** – Designing scalable, secure, and automated deployment environments  
+- 🎨 **UI/UX Design** – Blending creativity with functionality for visually appealing and user-friendly interfaces  
+ 
 
 ---
 
@@ -65,7 +67,7 @@
 
 ## 📫 Let's Connect  
 📧 **Email:** kkskumarsahu31@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn](#)  
+💼 **LinkedIn:** https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/ 
 🌐 **Portfolio: https://portss-gold.vercel.app/  
 
 ⭐ *"Always learning, always building, always improving"*  
