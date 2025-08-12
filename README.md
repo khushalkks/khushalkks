@@ -66,7 +66,7 @@
 ## 📫 Let's Connect  
 📧 **Email:** kkskumarsahu31@gmail.com  
 💼 **LinkedIn:** [Your LinkedIn](#)  
-🌐 **Portfolio:*[* [Your Portfolio Link](#) ](https://portss-gold.vercel.app/)  
+🌐 **Portfolio: https://portss-gold.vercel.app/  
 
 ⭐ *"Always learning, always building, always improving"*  
 
