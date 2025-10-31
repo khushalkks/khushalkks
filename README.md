@@ -2,7 +2,7 @@
 **Passionate MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast**  
 
 💡 Building modern, scalable & interactive web applications with **MongoDB, Express.js, React, Node.js**  
-💻 Strong problem-solving skills with **100+ DSA problems solved**  
+💻 Strong problem-solving skills with **150+ DSA problems solved**  
 🎯 Actively seeking **Software Engineer / Full Stack Developer** roles to bring impactful solutions to life  
 
 ---
