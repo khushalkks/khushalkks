@@ -1,46 +1,4 @@
-Skip to content
-Navigation Menu
-khushalkks
-khushalkks
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit cddc1b3
-khushalkks
-khushalkks
-authored
-5 hours ago
-Verified
-Update README.md
-main
-1 parent 
-2b48678
- commit 
-cddc1b3
-File tree
-Filter files…
-README.md
-1 file changed
-+0
--104
-lines changed
-Search within code
- 
-‎README.md‎
--104
-Lines changed: 0 additions & 104 deletions
-
-
-Original file line number	Diff line number	Diff line change
-@@ -2,107 +2,3 @@
+<P>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=32&fontAlignY=38&fontColor=ffffff"/>
 </p>
 
