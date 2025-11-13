@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&height=140&section=header"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&height=140&section=header&fontColor=ffffff&fontAlignY=35"/>
+
 </p>
 
 <h1 align="center" style="font-size: 32px;">
@@ -12,7 +13,7 @@
   💡 <b>Building modern, scalable & interactive web applications</b> using 
   <b>MongoDB, Express.js, React, and Node.js</b>
   <br/><br/>
-  💻 Solved <b>150+ DSA problems</b> and currently exploring 
+  💻 Solved <b>200+ DSA problems</b> and currently exploring 
   <b>Generative AI, Cloud Technologies, and LLMs</b>
   <br/><br/>
   🎯 Seeking <b>Software Engineer / Full Stack Developer</b> opportunities to create impactful, real-world solutions.
