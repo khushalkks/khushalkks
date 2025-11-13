@@ -1,98 +1,60 @@
-# 🚀 Khushal Kumar Sahu  
-**Passionate MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast**  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&height=120&section=header"/>
+</p>
 
-💡 Building modern, scalable & interactive web applications with **MongoDB, Express.js, React, Node.js**  
-💻 Strong problem-solving skills with **150+ DSA problems solved**  
-🎯 Actively seeking **Software Engineer / Full Stack Developer** roles to bring impactful solutions to life  
+<h1 align="center">
+  🚀 Passionate MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast
+</h1>
 
----
-
-## 🎯 Interests  
-- 🤖 **Generative AI & LLMs** – Experimenting with RAG architectures, HuggingFace models, and AI-powered applications  
-- 💻 **Full-Stack MERN Development** – Crafting responsive, intelligent web apps with seamless user experiences  
-- ⚡ **C++ & DSA** – Sharpening problem-solving skills and tackling competitive programming challenges  
-- ☁️ **Cloud & DevOps** – Designing scalable, secure, and automated deployment environments  
-- 🎨 **UI/UX Design** – Blending creativity with functionality for visually appealing and user-friendly interfaces  
-
----
-
-## 🛠️ Technical Skills  
-
-### 🖥️ Frontend Development  
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Frameworks:** React, Next.js  
-- **Styling:** Responsive Design, TailwindCSS, Framer Motion, Modern CSS  
-
-### 💻 Backend Development  
-- **Runtime:** Node.js  
-- **Frameworks:** Express.js  
-- **Databases:** MongoDB, PostgreSQL, SQL  
-- **APIs:** RESTful Services  
-
-### 👨‍💻 Programming Languages  
-- ☕ **C++** – Core expertise for problem solving  
-- 🐍 **Python** – For AI/ML projects  
-- ⚡ **JavaScript/TypeScript** – Full-stack development  
-
-### 🔧 DevOps & Tools  
-- **Version Control:** Git, GitHub  
-- **Deployment:** Render, Vercel  
-- **Tools:** Docker, VS Code, IntelliJ IDEA  
-
----
-
-## 🔥 Projects  
-
-### 1️⃣ Wellero – *Full-Stack Medical Care Platform* 🩺  
-**Description:** Comprehensive health-tech platform with appointment scheduling, secure messaging & real-time updates  
-**Tech Stack:** MERN, TailwindCSS, Framer Motion, JWT, Stripe/Razorpay  
-🔗 [Live Preview](#) | [GitHub](#)  
-
----
-
-### 2️⃣ ReadyBoss – *Productivity Platform* 📊  
-**Description:** Task & workflow management tool with dashboards, authentication & responsive UI  
-**Tech Stack:** MERN, TailwindCSS, Redux Toolkit, JWT  
-🔗 [Live Preview](#) | [GitHub](#)  
-
----
-
-### 3️⃣ DocsAI – *AI-powered Documentation Assistant* 🤖  
-**Description:** AI tool for document summarization, search & content generation  
-**Tech Stack:** ReactJS, Node.js, Express.js, AI APIs, TailwindCSS  
-🔗 [GitHub](#)  
-
----
-
-## 📫 Let's Connect  
-📧 **Email:** [kkskumarsahu31@gmail.com](mailto:kkskumarsahu31@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/khushal-kumar-sahu-4aaa4a242](https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/)  
-🌐 **Portfolio:** [portss-gold.vercel.app](https://portss-gold.vercel.app)  
-
-⭐ *"Always learning, always building, always improving"*  
-
----
-
-## 🛠️ Languages & Tools  
-
-<p align="left">
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<p align="center">
+💡 Building modern, scalable & interactive web applications using <b>MongoDB, Express.js, React, Node.js</b><br/>
+💻 Solved <b>150+ DSA problems</b> and exploring <b>Generative AI & Cloud Technologies</b><br/>
+🎯 Seeking <b>Software Engineer / Full Stack Developer</b> opportunities to create impactful solutions
 </p>
 
 ---
 
+<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
 
+<p align="center">
+<a href="https://portss-gold.vercel.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="mailto:kkskumarsahu31@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://twitter.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+---
+
+<h2>👨🏻‍💻 &nbsp;A Little About Me</h2>
+
+```yaml
+name: Khushal Kumar Sahu
+located_in: India
+current_focus: Full Stack Development & AI
+education:
+  [
+    "B.Tech in Computer Science Engineering",
+    "Self-Taught MERN Stack Developer",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Artificial Intelligence",
+    "Cloud & DevOps",
+    "UI/UX Design",
+  ]
+currently_learning: ["Generative AI, RAG, and Next.js"]
+2025_goals: ["Build 10+ impactful projects and master AI integration with MERN stack"]
+hobbies: ["Coding", "Design", "Learning", "Gaming", "Music"]
