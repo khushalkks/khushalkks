@@ -1,7 +1,7 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&height=140&section=header&fontColor=ffffff&fontAlignY=35"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=32&fontAlignY=38&fontColor=ffffff"/>
 </p>
+
 
 <h1 align="center" style="font-size: 32px;">
   🚀 Passionate MERN Stack Developer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;AI & Cloud Enthusiast
