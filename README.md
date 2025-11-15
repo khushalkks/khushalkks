@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=38&fontColor=ffffff"/>
 </p>
 
-<!-- Title -->
 <h1 align="center">🚀 MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast</h1>
 
 <p align="center">
@@ -12,77 +11,61 @@
 
 ---
 
-## 🧑‍💻 **About Me**
+## 🧑‍💻 About Me
 - 🌟 Passionate **MERN Stack Developer**  
-- 💡 Building **intuitive, fast & scalable** web apps  
+- 💡 Building intuitive, fast & scalable web apps  
 - 🤖 Exploring **Generative AI, Cloud Tech & LLMs**  
 - 💻 Solved **200+ DSA Problems**  
-- 🎯 Actively looking for **Software Engineer / Full Stack Developer Roles**  
-- 🚀 I love creating **real world impactful projects**  
+- 🎯 Looking for **Software Engineer / Full Stack Developer** roles  
+- 🚀 Love creating real-world impactful projects  
 
 ---
 
-## 🛠️ **Tech Stack**
+# 💻 Tech Stack:
 
-### 🚀 Frontend  
-`HTML5` • `CSS3` • `JavaScript` • `React` • `Tailwind CSS` • `Redux Toolkit`
-
-### ⚙️ Backend  
-`Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Bcrypt`
-
-### 🗄️ Database  
-`MongoDB` • `Mongoose` • `Firebase (Basics)`
-
-### 🤖 AI/ML  
-`Python` • `Scikit-learn` • `LLMs` • `Gemini API` • `FastAPI`
-
-### 🧰 Tools  
-`Git` • `GitHub` • `VS Code` • `Postman` • `Render` • `Vercel`
-
----
-
-## 🚀 **Featured Projects**
-
-### 🔹 **Robota – AI Voice Assistant Web App**
-Modern AI-powered assistant using **Gemini API**, voice input, animations & chatbot UI.
-
-### 🔹 **Alpha Quiz – Quiz App with Certificates**
-Timed quizzes, real-time score, Vanta.js background & auto certificate generator.
-
-### 🔹 **EvRide – Smart Electric Vehicle Ride (Minor Project)**
-AI-based EV fare & route prediction using ML + FastAPI backend.
-
-### 🔹 **Portfolio Website**
-3D animations, responsive UI, modern glassmorphism design.
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushalkr_sahu&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalkr_sahu&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalkr_sahu&theme=react-dark&hide_border=true"/>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🤝 **Let's Connect!**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khushalkks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-<a href="https://portss-gold.vercel.app/"><img height="45" src="https://img.icons8.com/color/512/domain.png"></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/"><img height="45" src="https://img.icons8.com/color/512/linkedin.png"></a>
-&nbsp;&nbsp;
-<a href="mailto:kkskumarsahu31@gmail.com"><img height="45" src="https://img.icons8.com/color/512/gmail.png"></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/"><img height="45" src="https://img.icons8.com/color/512/twitter.png"></a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/"><img height="45" src="https://img.icons8.com/color/512/instagram-new.png"></a>
-</p>
+---
+
+[![](https://visitcount.itsvg.in/api?id=khushalkks&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
