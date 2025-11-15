@@ -1,127 +1,97 @@
-
-
-<h1 align="center" style="font-size: 32px;">
-  🚀 Passionate MERN Stack Developer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;AI & Cloud Enthusiast
-</h1>
-<br/>
+<!-- Header Animation -->
 <p align="center">
-  💡 <b>Building modern, scalable & interactive web applications</b> using 
-  <b>MongoDB, Express.js, React, and Node.js</b>
-  <br/><br/>
-  💻 Solved <b>200+ DSA problems</b> and currently exploring 
-  <b>Generative AI, Cloud Technologies, and LLMs</b>
-  <br/><br/>
-  🎯 Seeking <b>Software Engineer / Full Stack Developer</b> opportunities to create impactful, real-world solutions.
-</p>
----
-<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
-<p align="center">
-<a href="https://portss-gold.vercel.app/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kkskumarsahu31@gmail.com">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="Twitter"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
-</a>
-</p>
-](https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif 
-<P>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=32&fontAlignY=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=38&fontColor=ffffff"/>
 </p>
 
-<h1 align="center" style="font-size: 32px;">
-  🚀 Passionate MERN Stack Developer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;AI & Cloud Enthusiast
-</h1>
-<br/>
+<!-- Title -->
+<h1 align="center">🚀 MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast</h1>
+
 <p align="center">
-  💡 <b>Building modern, scalable & interactive web applications</b> using 
-  <b>MongoDB, Express.js, React, and Node.js</b>
-  <br/><br/>
-  💻 Solved <b>200+ DSA problems</b> and currently exploring 
-  <b>Generative AI, Cloud Technologies, and LLMs</b>
-  <br/><br/>
-  🎯 Seeking <b>Software Engineer / Full Stack Developer</b> opportunities to create impactful, real-world solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Explorer;200%2B+DSA+Problems+Solved;Building+Modern+%26+Scalable+Web+Apps;Love+for+Learning+%26+Creating+Impactful+Solutions" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
+## 🧑‍💻 **About Me**
+- 🌟 Passionate **MERN Stack Developer**  
+- 💡 Building **intuitive, fast & scalable** web apps  
+- 🤖 Exploring **Generative AI, Cloud Tech & LLMs**  
+- 💻 Solved **200+ DSA Problems**  
+- 🎯 Actively looking for **Software Engineer / Full Stack Developer Roles**  
+- 🚀 I love creating **real world impactful projects**  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 🚀 Frontend  
+`HTML5` • `CSS3` • `JavaScript` • `React` • `Tailwind CSS` • `Redux Toolkit`
+
+### ⚙️ Backend  
+`Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Bcrypt`
+
+### 🗄️ Database  
+`MongoDB` • `Mongoose` • `Firebase (Basics)`
+
+### 🤖 AI/ML  
+`Python` • `Scikit-learn` • `LLMs` • `Gemini API` • `FastAPI`
+
+### 🧰 Tools  
+`Git` • `GitHub` • `VS Code` • `Postman` • `Render` • `Vercel`
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🔹 **Robota – AI Voice Assistant Web App**
+Modern AI-powered assistant using **Gemini API**, voice input, animations & chatbot UI.
+
+### 🔹 **Alpha Quiz – Quiz App with Certificates**
+Timed quizzes, real-time score, Vanta.js background & auto certificate generator.
+
+### 🔹 **EvRide – Smart Electric Vehicle Ride (Minor Project)**
+AI-based EV fare & route prediction using ML + FastAPI backend.
+
+### 🔹 **Portfolio Website**
+3D animations, responsive UI, modern glassmorphism design.
+
+---
+
+## 📊 **GitHub Stats**
+
 <p align="center">
-<a href="https://portss-gold.vercel.app/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kkskumarsahu31@gmail.com">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="Twitter"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushalkr_sahu&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalkr_sahu&theme=tokyonight" />
 </p>
 
-<!-- ⭐ Added at bottom -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalkr_sahu&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<p align="center">
+<a href="https://portss-gold.vercel.app/"><img height="45" src="https://img.icons8.com/color/512/domain.png"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/"><img height="45" src="https://img.icons8.com/color/512/linkedin.png"></a>
+&nbsp;&nbsp;
+<a href="mailto:kkskumarsahu31@gmail.com"><img height="45" src="https://img.icons8.com/color/512/gmail.png"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/"><img height="45" src="https://img.icons8.com/color/512/twitter.png"></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/"><img height="45" src="https://img.icons8.com/color/512/instagram-new.png"></a>
+</p>
+
+---
+
+<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-)
-](https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif <P>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=180&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=32&fontAlignY=38&fontColor=ffffff"/>
-</p>
 
-<h1 align="center" style="font-size: 32px;">
-  🚀 Passionate MERN Stack Developer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;AI & Cloud Enthusiast
-</h1>
-<br/>
+<!-- Footer -->
 <p align="center">
-  💡 <b>Building modern, scalable & interactive web applications</b> using 
-  <b>MongoDB, Express.js, React, and Node.js</b>
-  <br/><br/>
-  💻 Solved <b>200+ DSA problems</b> and currently exploring 
-  <b>Generative AI, Cloud Technologies, and LLMs</b>
-  <br/><br/>
-  🎯 Seeking <b>Software Engineer / Full Stack Developer</b> opportunities to create impactful, real-world solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer"/>
 </p>
----
-<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
-<p align="center">
-<a href="https://portss-gold.vercel.app/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khushal-kumar-sahu-4aaa4a242/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kkskumarsahu31@gmail.com">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="Twitter"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/">
-  <img height="48" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
-</a>
-</p> add this at bottom )
