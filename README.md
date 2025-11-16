@@ -1,43 +1,69 @@
-<!-- ===================== TOP FUN ANIMATIONS ===================== -->
+<!-- LEFT GIF -->
+<div style="text-align:center;">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
+    width="120"
+  />
+</div>
+
+
+<!-- CENTER TEXT -->
+<div align="center" style="margin-top: -20px;">
+  <h1 style="margin: 0; padding: 0; font-size: 34px; font-weight: bold;">
+    👋 Hello, I'm <b>Khushal Kumar Sahu</b>
+  </h1>
+</div>
+
+
+
+
+
+  <!-- RIGHT GIF (UPAR KIYA) -->
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280">
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
-  <br><br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="170">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    style="width:100%; max-width:1200px;"
+  >
 </p>
 
-<!-- ===================== MARIO BANNER ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="300" />
-</p>
 
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=38&fontColor=ffffff"/>
-</p>
 
-<h1 align="center">🚀 MERN Stack Developer | Problem Solver | AI & Cloud Enthusiast</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Explorer;200%2B+DSA+Problems+Solved;Building+Modern+%26+Scalable+Web+Apps;Love+for+Learning+%26+Creating+Impactful+Solutions" />
 </p>
 
----
+<h2>🧑‍💻 About Me</h2>
 
-## 🧑‍💻 About Me
-- 🌟 Passionate **MERN Stack Developer**  
-- 💡 Building intuitive, fast & scalable web apps  
-- 🤖 Exploring **Generative AI, Cloud Tech & LLMs**  
-- 💻 Solved **200+ DSA Problems**  
-- 🎯 Looking for **Software Engineer / Full Stack Developer** roles  
-- 🚀 Love creating real-world impactful projects  
+<!-- GIF RIGHT SIDE -->
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260">
 
----
+<!-- ABOUT ME TEXT LEFT -->
+- 🌟 Passionate <b>MERN Stack Developer</b><br>
+- 💡 Building intuitive, fast & scalable web apps<br>
+- 🤖 Exploring <b>Generative AI, Cloud Tech & LLMs</b><br>
+- 💻 Solved <b>200+ DSA Problems</b><br>
+- 🎯 Looking for <b>Software Engineer / Full Stack Developer</b> roles<br>
+- 🚀 Love creating real-world impactful projects<br><br>
+
+
+
+
+
+
+
+
 
 # 💻 Tech Stack:
-
+<p align="center">
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -69,25 +95,23 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushalkks&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=khushalkks&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+# 📊 GitHub Stats (Centered)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=khushalkks&theme=dark&hide_border=false" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p>
+
+
+
+
+
 
 <!-- Footer -->
 <p align="center">
