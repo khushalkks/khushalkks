@@ -1,4 +1,19 @@
-<!-- Header Animation -->
+<!-- ===================== TOP FUN ANIMATIONS ===================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
+  <br><br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="170">
+</p>
+
+<!-- ===================== MARIO BANNER ===================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="300" />
+</p>
+
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Hello%2C%20I'm%20Khushal%20Kumar%20Sahu!&fontSize=38&fontColor=ffffff"/>
 </p>
@@ -57,15 +72,15 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushalkks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khushalkks&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalkks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=khushalkks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
