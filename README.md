@@ -29,7 +29,7 @@ current_focus: Building Scalable Web Apps
 learning: Generative AI, LLMs, Cloud Architecture
 ```
 
-### 💡 Quick Highlights
+### 💡 Quick Highlight
 
 - 🚀 **MERN Stack Specialist** - Building production-ready applications
 - 🧠 **Problem Solver** - 200+ DSA problems conquered
