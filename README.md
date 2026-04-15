@@ -1,11 +1,10 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khushal%20Kumar%20Sahu&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Modern+%26+Scalable+Web+Applications;200%2B+DSA+Problems+Conquered+%F0%9F%92%AA;Exploring+AI%2C+Cloud+%26+Next-Gen+Tech+%F0%9F%A4%96;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Modern+%26+Scalable+Web+Applications;200%2B+DSA+Problems+Conquered+%F0%9F%92%AA;Vibe+Coding+with+Claude+%26+Cursor+%F0%9F%A4%96;Building+AI+Agents+%26+RAG+Pipelines+%F0%9F%A7%A0;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
@@ -25,18 +24,20 @@
 name: Khushal Kumar Sahu
 role: Full Stack Developer & AI Enthusiast
 location: India 🇮🇳
-current_focus: Building Scalable Web Apps
-learning: Generative AI, LLMs, Cloud Architecture
+current_focus: Building Scalable Web Apps + AI-Powered Tools
+learning: Agentic AI, LLMs, RAG, MCP, Cloud Architecture
+vibe: Vibe Coding with Claude & Cursor 🤖
 ```
 
 ### 💡 Quick Highlight
 
 - 🚀 **MERN Stack Specialist** - Building production-ready applications
 - 🧠 **Problem Solver** - 200+ DSA problems conquered
-- 🤖 **AI Explorer** - Diving deep into GenAI & LLMs
+- 🤖 **AI Explorer** - Building with LLMs, RAG Pipelines & AI Agents
 - ☁️ **Cloud Enthusiast** - AWS & modern deployment strategies
 - 🎯 **Open to Opportunities** - Software Engineer / Full Stack Developer roles
 - 💻 **Real-World Impact** - Creating solutions that matter
+- ⚡ **Vibe Coder** - Shipping fast with Claude & Cursor
 
 <br clear="right"/>
 
@@ -90,6 +91,20 @@ learning: Generative AI, LLMs, Cloud Architecture
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+### 🧠 AI Tools & Frameworks *(2025 Stack)*
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-%230088CC.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor_AI-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
 </details>
 
 
@@ -121,20 +136,25 @@ learning: Generative AI, LLMs, Cloud Architecture
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" />
       <br><b>Modern Web Apps</b>
       <br><sub>Building scalable solutions</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" />
-      <br><b>AI & ML</b>
-      <br><sub>Exploring GenAI & LLMs</sub>
+      <br><b>Agentic AI 🔥</b>
+      <br><sub>LLMs, RAG, MCP, AI Agents</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
       <br><b>Cloud Tech</b>
       <br><sub>AWS & DevOps</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" />
+      <br><b>Vibe Coding ⚡</b>
+      <br><sub>Claude + Cursor workflow</sub>
     </td>
   </tr>
 </table>
@@ -167,7 +187,7 @@ learning: Generative AI, LLMs, Cloud Architecture
 ---
 <div align="center">
 
-### 🌟 "Code is poetry crafted in logic" 🌟
+### 🌟 "Code is poetry crafted in logic — now powered by AI" 🤖
 
 **If you appreciate my work, feel free to give it a ⭐ on GitHub!**
 
