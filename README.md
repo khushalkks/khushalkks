@@ -135,15 +135,11 @@ vibe: Vibe Coding with Claude & Cursor 🤖
   &nbsp;
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/RAG_Pipelines-%230088CC.svg?style=for-the-badge&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/MCP_Protocol-blueviolet?style=for-the-badge" />
-  &nbsp;
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cursor_AI-%23000000.svg?style=for-the-badge&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
