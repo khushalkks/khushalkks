@@ -32,7 +32,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ### 💡 Quick Highlight
 
 - 🚀 **MERN Stack Specialist** - Building production-ready applications
-- 🧠 **Problem Solver** - 200+ DSA problems conquered
+- 🧠 **Problem Solver** - 300+ DSA problems conquered
 - 🤖 **AI Explorer** - Building with LLMs, RAG Pipelines & AI Agents
 - ☁️ **Cloud Enthusiast** - AWS & modern deployment strategies
 - 🎯 **Open to Opportunities** - Software Engineer / Full Stack Developer roles
