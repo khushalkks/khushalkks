@@ -45,107 +45,73 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AptitudeX — AI Career Platform</h3>
-      <p>Full-stack career acceleration platform with AI-driven resume analysis, intelligent job tracking, real-time salary insights, personalized learning roadmaps, and mock interviews.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/khushalkks/AptitudeX">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://aptitudex.vercel.app">
-          <img src="https://img.shields.io/badge/Live-View%20Demo-%2300D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <b>Key Features:</b>
-      <ul>
-        <li>🎯 ATS Resume Scoring & Smart Keyword Extraction</li>
-        <li>💰 Real-Time Salary Intelligence via RapidAPI</li>
-        <li>🎤 AI Mock Interviews with Instant Feedback</li>
-        <li>🐙 GitHub Portfolio Analyzer with AI Code Audit</li>
-        <li>📊 Visual Job Application Pipeline with Socket.io</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 MediCenter — Doctor Booking & AI Health Platform</h3>
-      <p>Modern full-stack healthcare platform for seamless doctor appointment booking, patient management, and instant AI-driven medical guidance with a complete patient portal and admin dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/khushalkks/MediCenter">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://medicenter.vercel.app">
-          <img src="https://img.shields.io/badge/Live-View%20Demo-%2300D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <b>Key Features:</b>
-      <ul>
-        <li>🩺 Smart Doctor Search by Speciality</li>
-        <li>📅 Real-Time Slot Booking with Calendar Validation</li>
-        <li>💳 Stripe & Razorpay Payment Integration</li>
-        <li>🤖 AI Medical Chatbot via OpenRouter</li>
-        <li>📊 Admin & Doctor Dashboard with Analytics</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 AI Learning Assistant</h3>
-      <p>Modern web application that helps users understand complex topics through AI-powered chat interaction, automatic summaries, and visual mind maps — all in one interactive platform.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/khushalkks/ai-learning-assistant">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://ai-learning-assistant.vercel.app">
-          <img src="https://img.shields.io/badge/Live-View%20Demo-%2300D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <b>Key Features:</b>
-      <ul>
-        <li>🤖 AI Chatbot for intelligent Q&A</li>
-        <li>🗺️ Visual Mind Map Generator (Mermaid.js)</li>
-        <li>📝 AI-Powered Text Summarization</li>
-        <li>📊 Central Dashboard for all AI tools</li>
-        <li>🔮 RAG & Vector DB integration (planned)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔮 More Coming Soon...</h3>
-      <p>Always building, always shipping. Check out my GitHub for the latest experiments in AI Agents, RAG Pipelines, and full-stack applications.</p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/khushalkks?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <br/>
-      <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&height=60&lines=Building+AI+Agents...;Shipping+RAG+Pipelines...;Next+project+loading...+%F0%9F%9A%80" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🧠 AptitudeX — AI Career Acceleration Platform
+
+> Full-stack platform that helps job seekers land their dream job 10x faster with AI-driven resume analysis, job tracking, salary insights, learning roadmaps & mock interviews.
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
+
+- 🎯 ATS Resume Scoring & Smart Keyword Extraction
+- 💰 Real-Time Salary Intelligence via RapidAPI
+- 🎤 AI Mock Interviews with Instant Feedback
+- 🐙 GitHub Portfolio Analyzer with AI Code Audit
+- 📊 Visual Job Application Pipeline with Socket.io
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/AptitudeX)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aptitudex.vercel.app)
+
+---
+
+### 🏥 MediCenter — Doctor Booking & AI Health Platform
+
+> Modern healthcare platform for seamless doctor appointment booking, patient management, and instant AI-driven medical guidance with a full patient portal, doctor panel & admin dashboard.
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+- 🩺 Smart Doctor Search & Filter by Speciality
+- 📅 Real-Time Slot Booking with Calendar Validation
+- 💳 Stripe & Razorpay Payment Integration
+- 🤖 AI Medical Chatbot powered by OpenRouter
+- 📊 Analytics Dashboard for Admin & Doctors
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/MediCenter)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://medicenter.vercel.app)
+
+---
+
+### 🎓 AI Learning Assistant
+
+> Interactive web app that helps users master complex topics through AI-powered chat, automatic summaries, and visual mind maps — all in one place.
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logoColor=white)
+
+- 🤖 AI Chatbot for intelligent Q&A
+- 🗺️ Visual Mind Map Generator (Mermaid.js)
+- 📝 AI-Powered Text Summarization
+- 📊 Central Dashboard for all AI tools
+- 🔮 RAG & Vector DB integration *(coming soon)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/ai-learning-assistant)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-learning-assistant.vercel.app)
+
+---
+
+<p align="center">
+  <a href="https://github.com/khushalkks?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20Projects-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
