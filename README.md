@@ -75,7 +75,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
-### **AI Learning Assistant — React, TypeScript, Vite, Mermaid.js**
+### **Cortex - AI Learning Assistant- — React, TypeScript, Vite, Mermaid.js**
 
 [GitHub](https://github.com/khushalkks/ai-learning-assistant) | [Live Demo](https://ai-learning-assistant.vercel.app)
 
