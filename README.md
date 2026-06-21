@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Modern+%26+Scalable+Web+Applications;200%2B+DSA+Problems+Conquered+%F0%9F%92%AA;Vibe+Coding+with+Claude+%26+Cursor+%F0%9F%A4%96;Building+AI+Agents+%26+RAG+Pipelines+%F0%9F%A7%A0;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Modern+%26+Scalable+Web+Applications;300%2B+DSA+Problems+Conquered+%F0%9F%92%AA;Vibe+Coding+with+Claude+%26+Cursor+%F0%9F%A4%96;Building+AI+Agents+%26+RAG+Pipelines+%F0%9F%A7%A0;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
