@@ -49,7 +49,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ### **AptitudeX — MERN, OpenAI, Cohere, Groq, Socket.io**
 
-[GitHub](https://github.com/khushalkks/AptitudeX) | [Live Demo](https://aptitudex.vercel.app)
+[GitHub](https://github.com/khushalkks/AptitudeX) | [Live Demo](https://aptitude-x-1cx8-d6j2v5m0w-khushals-projects-24912b0c.vercel.app)
 
 › Built a full-stack AI career acceleration platform integrating OpenAI, Cohere, and Groq APIs for resume ATS scoring, smart keyword extraction, and personalized learning roadmap generation.
 
@@ -63,7 +63,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ### **MediCenter — MERN, Stripe, Razorpay, Cloudinary, OpenRouter**
 
-[GitHub](https://github.com/khushalkks/MediCenter) | [Live Demo](https://medicenter.vercel.app)
+[GitHub](https://github.com/khushalkks/MediCenter) | [Live Demo](https://medicenter-frontend.vercel.app)
 
 › Architected a full-stack healthcare platform with patient portal, doctor panel, and admin dashboard — supporting doctor management, appointment booking, and revenue analytics.
 
