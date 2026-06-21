@@ -43,74 +43,52 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 AptitudeX — AI Career Acceleration Platform
-
-> Full-stack platform that helps job seekers land their dream job 10x faster with AI-driven resume analysis, job tracking, salary insights, learning roadmaps & mock interviews.
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
-
-- 🎯 ATS Resume Scoring & Smart Keyword Extraction
-- 💰 Real-Time Salary Intelligence via RapidAPI
-- 🎤 AI Mock Interviews with Instant Feedback
-- 🐙 GitHub Portfolio Analyzer with AI Code Audit
-- 📊 Visual Job Application Pipeline with Socket.io
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/AptitudeX)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aptitudex.vercel.app)
+## 🚀 Projects
 
 ---
 
-### 🏥 MediCenter — Doctor Booking & AI Health Platform
+### **AptitudeX — MERN, OpenAI, Cohere, Groq, Socket.io**
 
-> Modern healthcare platform for seamless doctor appointment booking, patient management, and instant AI-driven medical guidance with a full patient portal, doctor panel & admin dashboard.
+[GitHub](https://github.com/khushalkks/AptitudeX) | [Live Demo](https://aptitudex.vercel.app)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+› Built a full-stack AI career acceleration platform integrating OpenAI, Cohere, and Groq APIs for resume ATS scoring, smart keyword extraction, and personalized learning roadmap generation.
 
-- 🩺 Smart Doctor Search & Filter by Speciality
-- 📅 Real-Time Slot Booking with Calendar Validation
-- 💳 Stripe & Razorpay Payment Integration
-- 🤖 AI Medical Chatbot powered by OpenRouter
-- 📊 Analytics Dashboard for Admin & Doctors
+› Implemented real-time job application tracking with Socket.io, supporting live status updates and a visual pipeline dashboard for 5+ application stages.
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/MediCenter)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://medicenter.vercel.app)
+› Developed a GitHub Portfolio Analyzer using Gemini and Cohere APIs to generate complete career audits, language breakdowns, and role-fit suggestions from repository data.
+
+› Integrated RapidAPI JSearch for real-time salary intelligence and YouTube Data API for curated learning resource recommendations by role.
 
 ---
 
-### 🎓 AI Learning Assistant
+### **MediCenter — MERN, Stripe, Razorpay, Cloudinary, OpenRouter**
 
-> Interactive web app that helps users master complex topics through AI-powered chat, automatic summaries, and visual mind maps — all in one place.
+[GitHub](https://github.com/khushalkks/MediCenter) | [Live Demo](https://medicenter.vercel.app)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logoColor=white)
+› Architected a full-stack healthcare platform with patient portal, doctor panel, and admin dashboard — supporting doctor management, appointment booking, and revenue analytics.
 
-- 🤖 AI Chatbot for intelligent Q&A
-- 🗺️ Visual Mind Map Generator (Mermaid.js)
-- 📝 AI-Powered Text Summarization
-- 📊 Central Dashboard for all AI tools
-- 🔮 RAG & Vector DB integration *(coming soon)*
+› Built a real-time slot booking system with automatic calendar validation, preventing double-bookings and syncing availability across patient and doctor views.
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushalkks/ai-learning-assistant)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-learning-assistant.vercel.app)
+› Integrated Stripe and Razorpay dual-payment checkout with INR currency support, enabling seamless booking fee collection for 15+ seeded doctor profiles.
+
+› Embedded an AI Medical Chatbot powered by OpenRouter that answers health queries, suggests specialities based on symptoms, and guides users through the booking flow.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/khushalkks?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20View%20All%20Projects-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### **AI Learning Assistant — React, TypeScript, Vite, Mermaid.js**
+
+[GitHub](https://github.com/khushalkks/ai-learning-assistant) | [Live Demo](https://ai-learning-assistant.vercel.app)
+
+› Developed a modular AI-powered learning platform with an interactive chatbot, mind map generator, and text summarization tool — all accessible from a unified dashboard.
+
+› Implemented visual mind map generation using Mermaid.js to help users visualize concept relationships and knowledge structures from any topic input.
+
+› Designed a scalable frontend architecture in React + TypeScript with React Router, enabling seamless navigation across 6 distinct AI-powered learning modules.
+
+---
+
+<p align="right">
+  <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
 </p>
 
 ---
