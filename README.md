@@ -47,7 +47,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
-### **AptitudeX — MERN, OpenAI, Cohere, Groq, Socket.io**
+### **AptitudeX — MERN FuLL Stack, OpenAI, Cohere, Groq, Socket.io**
 
 [GitHub](https://github.com/khushalkks/AptitudeX) | [Live Demo](https://aptitude-x-5cwk.vercel.app/)
 
