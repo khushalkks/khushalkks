@@ -14,9 +14,17 @@
   <img src="https://img.shields.io/github/stars/khushalkks?label=Stars&style=flat-square&color=0e75b6" alt="stars" />
 </p>
 
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
+
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -29,15 +37,17 @@ learning: Agentic AI, LLMs, RAG, MCP, Cloud Architecture
 vibe: Vibe Coding with Claude & Cursor 🤖
 ```
 
-### 💡 Quick Highlight
+### 💡 Quick Highlights
 
-- 🚀 **MERN Stack Specialist** - Building production-ready applications
-- 🧠 **Problem Solver** - 330+ DSA problems conquered
-- 🤖 **AI Explorer** - Building with LLMs, RAG Pipelines & AI Agents
-- ☁️ **Cloud Enthusiast** - AWS & modern deployment strategies
-- 🎯 **Open to Opportunities** - Software Engineer / Full Stack Developer roles
-- 💻 **Real-World Impact** - Creating solutions that matter
-- ⚡ **Vibe Coder** - Shipping fast with Claude & Cursor
+| | |
+|---|---|
+| 🚀 | **MERN Stack Specialist** — Building production-ready, full-stack applications |
+| 🧠 | **Problem Solver** — 330+ DSA problems conquered across platforms |
+| 🤖 | **AI Explorer** — Building with LLMs, RAG Pipelines & multi-agent AI systems |
+| ☁️ | **Cloud Enthusiast** — AWS & modern deployment strategies |
+| 🎯 | **Open to Opportunities** — Software Engineer / Full Stack Developer roles |
+| 💻 | **Real-World Impact** — Shipping products that solve genuine problems |
+| ⚡ | **Vibe Coder** — Rapid iteration with Claude & Cursor |
 
 <br clear="right"/>
 
@@ -45,63 +55,79 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ## 🚀 Projects
 
----
+<div align="center">
 
-### **AptitudeX — MERN FuLL Stack, OpenAI, Cohere, Groq, Socket.io**
+*A selection of full-stack and AI-powered products I've architected end-to-end*
 
-[GitHub](https://github.com/khushalkks/AptitudeX) | [Live Demo](https://aptitude-x-5cwk.vercel.app/)
+</div>
+<br>
 
-› Built a full-stack AI career acceleration platform integrating OpenAI, Cohere, and Groq APIs for resume ATS scoring, smart keyword extraction, and personalized learning roadmap generation.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-› Implemented real-time job application tracking with Socket.io, supporting live status updates and a visual pipeline dashboard for 5+ application stages.
+### 🎯 AptitudeX
+**MERN · OpenAI · Cohere · Groq · Socket.io**
 
-› Developed a GitHub Portfolio Analyzer using Gemini and Cohere APIs to generate complete career audits, language breakdowns, and role-fit suggestions from repository data.
+AI career acceleration platform combining resume intelligence, live application tracking, and portfolio analysis.
 
-› Integrated RapidAPI JSearch for real-time salary intelligence and YouTube Data API for curated learning resource recommendations by role.
+- Integrated **OpenAI, Cohere & Groq** for ATS resume scoring, keyword extraction, and personalized learning roadmaps
+- Real-time job pipeline dashboard via **Socket.io** across 5+ application stages
+- **GitHub Portfolio Analyzer** (Gemini + Cohere) generating career audits and role-fit suggestions
+- **RapidAPI JSearch** for live salary intelligence + **YouTube Data API** for curated learning content
 
----
+📦 [GitHub](https://github.com/khushalkks/AptitudeX) &nbsp;|&nbsp; 🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/)
 
-### **MediCenter — MERN, Stripe, Razorpay, Cloudinary, OpenRouter**
+</td>
+<td width="50%" valign="top">
 
-[GitHub](https://github.com/khushalkks/MediCenter) | [Live Demo](https://medicenter-frontend.vercel.app)
+### 🏥 MediCenter
+**MERN · Stripe · Razorpay · Cloudinary · OpenRouter**
 
-› Architected a full-stack healthcare platform with patient portal, doctor panel, and admin dashboard — supporting doctor management, appointment booking, and revenue analytics.
+Full-stack healthcare platform with patient, doctor, and admin experiences.
 
-› Built a real-time slot booking system with automatic calendar validation, preventing double-bookings and syncing availability across patient and doctor views.
+- Patient portal, doctor panel & admin dashboard with revenue analytics
+- Real-time slot booking with automated calendar validation — zero double-bookings
+- Dual payment checkout (**Stripe + Razorpay**) with native INR support across 15+ doctor profiles
+- AI medical chatbot (**OpenRouter**) for symptom-based specialist recommendations
 
-› Integrated Stripe and Razorpay dual-payment checkout with INR currency support, enabling seamless booking fee collection for 15+ seeded doctor profiles.
+📦 [GitHub](https://github.com/khushalkks/MediCenter) &nbsp;|&nbsp; 🔗 [Live Demo](https://medicenter-frontend.vercel.app)
 
-› Embedded an AI Medical Chatbot powered by OpenRouter that answers health queries, suggests specialities based on symptoms, and guides users through the booking flow.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧩 Cortex — AI Learning Assistant
+**React · TypeScript · Vite · Mermaid.js**
 
-### **Cortex - AI Learning Assistant- — React, TypeScript, Vite, Mermaid.js**
+Modular AI-powered learning platform unifying chat, visualization, and summarization.
 
-[GitHub](https://github.com/khushalkks/Codex) | [Live Demo](https://codex-psi-teal.vercel.app)
+- Interactive chatbot, mind-map generator & text summarizer in one dashboard
+- Dynamic concept visualization using **Mermaid.js**
+- Scalable **React + TypeScript** architecture with React Router across 6 learning modules
 
-› Developed a modular AI-powered learning platform with an interactive chatbot, mind map generator, and text summarization tool — all accessible from a unified dashboard.
+📦 [GitHub](https://github.com/khushalkks/Codex) &nbsp;|&nbsp; 🔗 [Live Demo](https://codex-psi-teal.vercel.app)
 
-› Implemented visual mind map generation using Mermaid.js to help users visualize concept relationships and knowledge structures from any topic input.
+</td>
+<td width="50%" valign="top">
 
-› Designed a scalable frontend architecture in React + TypeScript with React Router, enabling seamless navigation across 6 distinct AI-powered learning modules.
+### 🎙️ Bit-Interview
+**React · FastAPI · LangGraph · MongoDB · Redis**
 
----
+Production-grade, stateful AI technical interview simulator.
 
-### **Bit-Interview — React, FastAPI, LangGraph, MongoDB, Redis**
+- **FastAPI + React 19 + WebSockets** for low-latency live interview sessions
+- Multi-agent workflow (**LangGraph + LangChain**, Gemini 2.5 Pro) adapting difficulty in real time
+- In-browser coding sandbox (**Monaco Editor + Judge0**) across Python, JS, C++, Java
+- Layout-aware PDF resume parsing (**PyMuPDF + Sentence Transformers**) with ATS matching
+- Radar/line diagnostic dashboards (**Recharts**) backed by **Redis** cache + **MongoDB Atlas**
 
-[GitHub](https://github.com/khushalkks/bit-Interview) | [Live Demo](https://bit-interview.vercel.app/)
+📦 [GitHub](https://github.com/khushalkks/bit-Interview) &nbsp;|&nbsp; 🔗 [Live Demo](https://bit-interview.vercel.app/)
 
-› Developed a production-grade, stateful AI technical interview simulator utilizing FastAPI, React 19, and WebSockets for low-latency live interactive sessions.
-
-› Engineered a multi-agent conversational AI workflow using LangGraph and LangChain powered by Gemini 2.5 Pro to dynamically adjust interview path and question difficulty based on real-time candidate response accuracy.
-
-› Integrated an in-browser coding sandbox using Monaco Editor and the Judge0 API enabling remote code compilation, syntax validation, and test case execution across Python, JS, C++, and Java.
-
-› Built a layout-aware PDF resume parsing pipeline with PyMuPDF (fitz) and Sentence Transformers to parse skills and dynamically calculate ATS matching score against job descriptions.
-
-› Designed interactive readiness diagnostic dashboards using Recharts (radar and line charts) to display candidates' skill graphs, with state management cached in Redis and persisted in MongoDB Atlas.
-
----
+</td>
+</tr>
+</table>
 
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
@@ -117,7 +143,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 <br>
 
 ### 💻 Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   &nbsp;
@@ -133,7 +158,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ---
 
 ### 🎨 Frontend
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   &nbsp;
@@ -149,7 +173,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ---
 
 ### ⚙️ Backend & APIs
-
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   &nbsp;
@@ -163,7 +186,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ---
 
 ### ☁️ Cloud & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   &nbsp;
@@ -177,7 +199,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ---
 
 ### 🤖 AI & Data Science
-
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   &nbsp;
@@ -191,7 +212,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ---
 
 ### 🧠 AI Tools & Frameworks &nbsp;*(2025 Stack)*
-
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   &nbsp;
@@ -214,6 +234,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 <br>
 
 </details>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -289,8 +310,8 @@ vibe: Vibe Coding with Claude & Cursor 🤖
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quotes=10" />
 </p>
 
-
 ---
+
 <div align="center">
 
 ### 🌟 "Code is poetry crafted in logic — now powered by AI" 🤖
@@ -299,7 +320,4 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
