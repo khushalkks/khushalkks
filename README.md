@@ -87,6 +87,21 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+Bit-Interview — React, FastAPI, LangGraph, MongoDB, Redis
+[GitHub](https://github.com/khushalkks/bit-Interview) | [Live Demo](https://bit-interview.vercel.app/)
+
+› Developed a production-grade, stateful AI technical interview simulator utilizing FastAPI, React 19, and WebSockets for low-latency live interactive sessions.
+
+› Engineered a multi-agent conversational AI workflow using LangGraph and LangChain powered by Gemini 2.5 Pro to dynamically adjust interview path and question difficulty based on real-time candidate response accuracy.
+
+› Integrated an in-browser coding sandbox using Monaco Editor and the Judge0 API enabling remote code compilation, syntax validation, and test case execution across Python, JS, C++, and Java.
+
+› Built a layout-aware PDF resume parsing pipeline with PyMuPDF (fitz) and Sentence Transformers to parse skills and dynamically calculate ATS matching score against job descriptions.
+
+› Designed interactive readiness diagnostic dashboards using Recharts (radar and line charts) to display candidates' skill graphs, with state management cached in Redis and persisted in MongoDB Atlas.
+
+---
+
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
 </p>
