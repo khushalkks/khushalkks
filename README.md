@@ -87,7 +87,8 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
-Bit-Interview — React, FastAPI, LangGraph, MongoDB, Redis
+### **Bit-Interview — React, FastAPI, LangGraph, MongoDB, Redis**
+
 [GitHub](https://github.com/khushalkks/bit-Interview) | [Live Demo](https://bit-interview.vercel.app/)
 
 › Developed a production-grade, stateful AI technical interview simulator utilizing FastAPI, React 19, and WebSockets for low-latency live interactive sessions.
