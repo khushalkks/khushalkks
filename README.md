@@ -60,14 +60,11 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 *A selection of full-stack and AI-powered products I've architected end-to-end*
 
 </div>
-<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🎯 AptitudeX
-**MERN · OpenAI · Cohere · Groq · Socket.io**
+**MERN Stack · OpenAI · Cohere · Groq · Socket.io**
 
 AI career acceleration platform combining resume intelligence, live application tracking, and portfolio analysis.
 
@@ -78,11 +75,10 @@ AI career acceleration platform combining resume intelligence, live application 
 
 📦 [GitHub](https://github.com/khushalkks/AptitudeX) &nbsp;|&nbsp; 🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🏥 MediCenter
-**MERN · Stripe · Razorpay · Cloudinary · OpenRouter**
+**MERN Stack · Stripe · Razorpay · Cloudinary · OpenRouter**
 
 Full-stack healthcare platform with patient, doctor, and admin experiences.
 
@@ -93,10 +89,7 @@ Full-stack healthcare platform with patient, doctor, and admin experiences.
 
 📦 [GitHub](https://github.com/khushalkks/MediCenter) &nbsp;|&nbsp; 🔗 [Live Demo](https://medicenter-frontend.vercel.app)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🧩 Cortex — AI Learning Assistant
 **React · TypeScript · Vite · Mermaid.js**
@@ -109,8 +102,7 @@ Modular AI-powered learning platform unifying chat, visualization, and summariza
 
 📦 [GitHub](https://github.com/khushalkks/Codex) &nbsp;|&nbsp; 🔗 [Live Demo](https://codex-psi-teal.vercel.app)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🎙️ Bit-Interview
 **React · FastAPI · LangGraph · MongoDB · Redis**
@@ -125,9 +117,7 @@ Production-grade, stateful AI technical interview simulator.
 
 📦 [GitHub](https://github.com/khushalkks/bit-Interview) &nbsp;|&nbsp; 🔗 [Live Demo](https://bit-interview.vercel.app/)
 
-</td>
-</tr>
-</table>
+---
 
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
