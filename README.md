@@ -127,103 +127,31 @@ Production-grade, stateful AI technical interview simulator.
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>🎯 Core Technologies</b></summary>
-
-<br>
-
-### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,c&theme=dark" />
 </p>
 
----
-
-### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,reactnative,css&theme=dark" />
 </p>
 
----
-
-### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio,mongodb,redis&theme=dark" />
 </p>
 
----
-
-### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,git,docker&theme=dark" />
 </p>
 
----
-
-### 🤖 AI & Data Science
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" />
 </p>
 
----
+<div align="center">
 
-### 🧠 AI Tools & Frameworks &nbsp;*(2025 Stack)*
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG_Pipelines-%230088CC.svg?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MCP_Protocol-blueviolet?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor_AI-%23000000.svg?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+**🤖 AI Tools & Frameworks** &nbsp;·&nbsp; Claude API &nbsp;·&nbsp; OpenAI GPT-4o &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; LangChain / LangGraph &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; MCP Protocol &nbsp;·&nbsp; Cursor AI &nbsp;·&nbsp; Ollama &nbsp;·&nbsp; Hugging Face
 
-<br>
-
-</details>
+</div>
 
 ---
 
