@@ -160,9 +160,13 @@ Production-grade, stateful AI technical interview simulator.
 
 <div align="center">
 
-*My GitHub contribution graph, eaten alive*
+*My GitHub contribution graph, eaten alive — updates automatically every day*
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" alt="GitHub contribution snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
