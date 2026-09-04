@@ -201,6 +201,10 @@ Production-grade, stateful AI technical interview simulator.
   </a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240885374-58e30265-7dc2-4977-83ab-66d4d1fa6ec3.gif" width="100%"/>
+</div>
+
 ---
 
 ## 💭 Random Dev Quotes
