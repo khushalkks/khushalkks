@@ -167,16 +167,6 @@ Production-grade, stateful AI technical interview simulator.
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=khushalkks&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </p>
 
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushalkks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 <table align="center">
