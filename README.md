@@ -150,6 +150,40 @@ Production-grade, stateful AI technical interview simulator.
 
 ---
 
+## 💼 Experience
+
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
+
+### 🔬 Research Intern · National Forensic Sciences University (NFSU)
+**May 2026 – July 2026** &nbsp;|&nbsp; LLM Summarization & NLP Research
+
+- Researched **LLM-based Abstractive Summarization** using Prompt Engineering and NLP techniques
+- Applied **Hugging Face Transformers**, keyword extraction, and **ROUGE evaluation** for summary optimization
+
+📜 Certificate &nbsp;|&nbsp; 📦 [GitHub](https://github.com/khushalkks)
+
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
+
+### 🏆 Achievements & Open Source
+
+- 🥇 **Hackathon Finalist** — Hacksagon, IIITM Gwalior — built a Resume Tracker with performance analytics in 36 hours
+- 🛍️ **Walmart Sparkathon 2025** — contributed to scalable solution design in Walmart's national innovation challenge
+- 🌱 **GirlScript Summer of Code (GSSoC) 2026** — 7+ merged Pull Requests across open-source repositories
+- 🎃 **Hacktoberfest Participant** — multiple accepted PRs across GitHub projects
+- 🤖 **Murf AI Coding Challenge** — solved algorithmic challenges exploring AI-powered developer workflows
+
+</td></tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
