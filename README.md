@@ -64,12 +64,10 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
+<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
+<tr><td style="padding:16px;">
 
-**🎯 [AptitudeX](https://github.com/khushalkks/AptitudeX)**
-`MERN` `OpenAI` `Cohere` `Groq` `Socket.io`
+**🎯 [AptitudeX](https://github.com/khushalkks/AptitudeX)** &nbsp; `MERN` `OpenAI` `Cohere` `Groq` `Socket.io`
 
 AI career acceleration platform — resume intelligence, live application tracking & portfolio analysis.
 
@@ -79,11 +77,15 @@ AI career acceleration platform — resume intelligence, live application tracki
 
 🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/AptitudeX)
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
+</td></tr>
+</table>
 
-**🏥 [MediCenter](https://github.com/khushalkks/MediCenter)**
-`MERN` `Stripe` `Razorpay` `Cloudinary` `OpenRouter`
+<br/>
+
+<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
+<tr><td style="padding:16px;">
+
+**🏥 [MediCenter](https://github.com/khushalkks/MediCenter)** &nbsp; `MERN` `Stripe` `Razorpay` `Cloudinary` `OpenRouter`
 
 Full-stack healthcare platform with patient, doctor & admin experiences.
 
@@ -93,13 +95,15 @@ Full-stack healthcare platform with patient, doctor & admin experiences.
 
 🔗 [Live Demo](https://medicenter-frontend.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/MediCenter)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
+</td></tr>
+</table>
 
-**🧩 [Cortex — AI Learning Assistant](https://github.com/khushalkks/Codex)**
-`React` `TypeScript` `Vite` `Mermaid.js`
+<br/>
+
+<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
+<tr><td style="padding:16px;">
+
+**🧩 [Cortex — AI Learning Assistant](https://github.com/khushalkks/Codex)** &nbsp; `React` `TypeScript` `Vite` `Mermaid.js`
 
 Modular AI learning platform unifying chat, visualization & summarization.
 
@@ -109,11 +113,15 @@ Modular AI learning platform unifying chat, visualization & summarization.
 
 🔗 [Live Demo](https://codex-psi-teal.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/Codex)
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
+</td></tr>
+</table>
 
-**🎙️ [Bit-Interview](https://github.com/khushalkks/bit-Interview)**
-`React` `FastAPI` `LangGraph` `MongoDB` `Redis`
+<br/>
+
+<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
+<tr><td style="padding:16px;">
+
+**🎙️ [Bit-Interview](https://github.com/khushalkks/bit-Interview)** &nbsp; `React` `FastAPI` `LangGraph` `MongoDB` `Redis`
 
 Production-grade, stateful AI technical interview simulator.
 
@@ -123,8 +131,7 @@ Production-grade, stateful AI technical interview simulator.
 
 🔗 [Live Demo](https://bit-interview.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/bit-Interview)
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <p align="right">
