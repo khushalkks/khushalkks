@@ -18,6 +18,7 @@
   <a href="#-about-me">About</a> •
   <a href="#-projects">Projects</a> •
   <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-contribution-snake">Snake 🐍</a> •
   <a href="#-github-analytics">Analytics</a> •
   <a href="#-connect-with-me">Contact</a>
 </p>
@@ -155,15 +156,19 @@ Production-grade, stateful AI technical interview simulator.
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/khushalkks/khushalkks/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
+<div align="center">
+
+*My GitHub contribution graph, eaten alive*
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khushalkks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
