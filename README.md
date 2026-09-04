@@ -58,106 +58,89 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 <div align="center">
 
-*A selection of full-stack and AI-powered products I've architected end-to-end*
+*A selection of full-stack, AI-powered & computer vision products I've built end-to-end.*
 
 </div>
 
 <br/>
 
-<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-<tr><td style="padding:16px;">
+### 🎯 AptitudeX
 
-**🎯 [AptitudeX](https://github.com/khushalkks/AptitudeX)** &nbsp; `MERN` `OpenAI` `Cohere` `Groq` `Socket.io`
+`MERN` `OpenAI` `Cohere` `Groq` `Socket.io`
 
-AI career acceleration platform — resume intelligence, live application tracking & portfolio analysis.
+**AI career acceleration platform** focused on resume intelligence, job tracking, and portfolio analysis.
 
-- ATS resume scoring & personalized roadmaps via **OpenAI, Cohere, Groq**
-- Real-time job pipeline dashboard (**Socket.io**) across 5+ stages
-- GitHub Portfolio Analyzer generating career audits
+* 🤖 **AI Resume Intelligence** — ATS scoring, keyword extraction & personalized career roadmaps using OpenAI, Cohere & Groq
+* ⚡ **Real-Time Job Tracking** — Socket.io-powered application pipeline across 5+ stages
+* 🔍 **GitHub Portfolio Analyzer** — Automated career audits and role-fit insights
 
-🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/AptitudeX)
+**[🔗 Live Demo](https://aptitude-x-5cwk.vercel.app/)** · **[📦 Source Code](https://github.com/khushalkks/AptitudeX)**
 
-</td></tr>
-</table>
+---
 
-<br/>
+### 🏥 MediCenter
 
-<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-<tr><td style="padding:16px;">
+`MERN` `Stripe` `Razorpay` `Cloudinary` `OpenRouter`
 
-**🏥 [MediCenter](https://github.com/khushalkks/MediCenter)** &nbsp; `MERN` `Stripe` `Razorpay` `Cloudinary` `OpenRouter`
+**Full-stack healthcare platform** connecting patients, doctors, and administrators through a unified system.
 
-Full-stack healthcare platform with patient, doctor & admin experiences.
+* 📅 **Smart Appointment Booking** — Real-time slot validation designed to prevent double-bookings
+* 💳 **Dual Payment Integration** — Stripe + Razorpay checkout supporting INR payments across 15+ doctor profiles
+* 🤖 **AI Medical Assistant** — Symptom-based specialist recommendations using OpenRouter
 
-- Real-time slot booking — zero double-bookings
-- Dual payment checkout (**Stripe + Razorpay**) across 15+ doctor profiles
-- AI medical chatbot for symptom-based specialist matching
+**[🔗 Live Demo](https://medicenter-frontend.vercel.app)** · **[📦 Source Code](https://github.com/khushalkks/MediCenter)**
 
-🔗 [Live Demo](https://medicenter-frontend.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/MediCenter)
+---
 
-</td></tr>
-</table>
+### 🧩 Cortex — AI Learning Assistant
 
-<br/>
+`React` `TypeScript` `Vite` `Mermaid.js`
 
-<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-<tr><td style="padding:16px;">
+**Modular AI learning platform** combining conversational learning, visualization, and summarization.
 
-**🧩 [Cortex — AI Learning Assistant](https://github.com/khushalkks/Codex)** &nbsp; `React` `TypeScript` `Vite` `Mermaid.js`
+* 💬 **AI Learning Assistant** — Interactive chatbot with learning-focused responses
+* 🧠 **Visual Learning** — Dynamic mind-map and concept visualization using Mermaid.js
+* ⚛️ **Modular Architecture** — React + TypeScript application organized across 6 learning modules
 
-Modular AI learning platform unifying chat, visualization & summarization.
+**[🔗 Live Demo](https://codex-psi-teal.vercel.app)** · **[📦 Source Code](https://github.com/khushalkks/Codex)**
 
-- Interactive chatbot, mind-map generator & text summarizer
-- Dynamic concept visualization using **Mermaid.js**
-- Scalable React + TypeScript architecture across 6 modules
+---
 
-🔗 [Live Demo](https://codex-psi-teal.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/Codex)
+### 🎙️ Bit-Interview
 
-</td></tr>
-</table>
+`React` `FastAPI` `LangGraph` `MongoDB` `Redis`
 
-<br/>
+**Production-grade, stateful AI technical interview simulator** designed for adaptive interview practice.
 
-<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-<tr><td style="padding:16px;">
+* 🧠 **Multi-Agent Interview Workflow** — LangGraph + Gemini 2.5 Pro dynamically adapts interview difficulty
+* 💻 **Browser Coding Environment** — Monaco Editor + Judge0 supporting Python, JavaScript, C++ & Java
+* 📄 **Resume-Aware Evaluation** — PDF resume parsing and ATS matching using PyMuPDF + Sentence Transformers
 
-**🎙️ [Bit-Interview](https://github.com/khushalkks/bit-Interview)** &nbsp; `React` `FastAPI` `LangGraph` `MongoDB` `Redis`
+**[🔗 Live Demo](https://bit-interview.vercel.app/)** · **[📦 Source Code](https://github.com/khushalkks/bit-Interview)**
 
-Production-grade, stateful AI technical interview simulator.
+---
 
-- Multi-agent workflow (**LangGraph**, Gemini 2.5 Pro) adapting difficulty live
-- In-browser coding sandbox (**Monaco + Judge0**) across 4 languages
-- Resume-aware ATS matching via PyMuPDF + Sentence Transformers
+### 🛰️ SatVision — AI Satellite Change Detection
 
-🔗 [Live Demo](https://bit-interview.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/bit-Interview)
+`Python` `PyTorch` `Streamlit` `Computer Vision`
 
-</td></tr>
-</table>
+**End-to-end computer vision system** for detecting spatial, infrastructural, and land-use changes between bitemporal satellite images.
 
-<br/>
+* 🧠 **Lightweight U-Net** — 1.8M-parameter model with 6-channel bitemporal input trained on Sentinel-2 imagery
+* 🎯 **Imbalance-Aware Training** — Combined BCE + Dice Loss for change-mask segmentation
+* 📊 **Interactive CV Dashboard** — Streamlit interface with custom uploads, threshold controls & training analytics
+* 📈 **Evaluation** — 96.85% mean recall and 90.13% pixel accuracy on the OSCD test split
 
-<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-<tr><td style="padding:16px;">
+**[📦 Source Code](https://github.com/khushalkks/React_World)**
 
-**🛰️ [SatVision — AI Satellite Change Detection](https://github.com/khushalkks/React_World)** &nbsp; `Python` `PyTorch` `Streamlit` `Computer Vision`
-
-End-to-end CV system that detects spatial, infrastructural & land-use changes between bitemporal satellite images with pixel-level precision.
-
-- Lightweight **1.8M-param U-Net** (6-channel bitemporal input) trained on Sentinel-2 imagery
-- Combined **BCE + Dice Loss** to handle severe class imbalance in change masks
-- Interactive **Streamlit** dashboard — custom uploads, threshold sliders, training analytics
-- 96.85% mean recall, 90.13% pixel accuracy on the OSCD test split
-
-📦 [Code](https://github.com/khushalkks/React_World)
-
-</td></tr>
-</table>
+---
 
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
 </p>
 
 ---
+
 
 ## 💼 Experience
 
