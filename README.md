@@ -132,7 +132,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 * 📈 **Evaluation** — 96.85% mean recall and 90.13% pixel accuracy on the OSCD test split
 
 
-**[🔗 Live Demo](https://reactworld-2brozvokqbcqn2rhympkzh.streamlit.app/)** · **[📦 Source Code]([https://github.com/khushalkks/React_World]**
+**[🔗 Live Demo](https://reactworld-2brozvokqbcqn2rhympkzh.streamlit.app/)** · **[📦 Source Code](https://github.com/khushalkks/React_World)**
 
 ---
 
