@@ -134,6 +134,25 @@ Production-grade, stateful AI technical interview simulator.
 </td></tr>
 </table>
 
+<br/>
+
+<table width="100%" style="border:1px solid #30363d; border-radius:10px;">
+<tr><td style="padding:16px;">
+
+**🛰️ [SatVision — AI Satellite Change Detection](https://github.com/khushalkks/React_World)** &nbsp; `Python` `PyTorch` `Streamlit` `Computer Vision`
+
+End-to-end CV system that detects spatial, infrastructural & land-use changes between bitemporal satellite images with pixel-level precision.
+
+- Lightweight **1.8M-param U-Net** (6-channel bitemporal input) trained on Sentinel-2 imagery
+- Combined **BCE + Dice Loss** to handle severe class imbalance in change masks
+- Interactive **Streamlit** dashboard — custom uploads, threshold sliders, training analytics
+- 96.85% mean recall, 90.13% pixel accuracy on the OSCD test split
+
+📦 [Code](https://github.com/khushalkks/React_World)
+
+</td></tr>
+</table>
+
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
 </p>
