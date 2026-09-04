@@ -62,87 +62,70 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 </div>
 
----
+<br/>
 
-<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
-<tr><td>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
 
-### 🎯 AptitudeX
-**MERN Stack · OpenAI · Cohere · Groq · Socket.io**
+**🎯 [AptitudeX](https://github.com/khushalkks/AptitudeX)**
+`MERN` `OpenAI` `Cohere` `Groq` `Socket.io`
 
-AI career acceleration platform combining resume intelligence, live application tracking, and portfolio analysis.
+AI career acceleration platform — resume intelligence, live application tracking & portfolio analysis.
 
-- Integrated **OpenAI, Cohere & Groq** for ATS resume scoring, keyword extraction, and personalized learning roadmaps
-- Real-time job pipeline dashboard via **Socket.io** across 5+ application stages
-- **GitHub Portfolio Analyzer** (Gemini + Cohere) generating career audits and role-fit suggestions
-- **RapidAPI JSearch** for live salary intelligence + **YouTube Data API** for curated learning content
+- ATS resume scoring & personalized roadmaps via **OpenAI, Cohere, Groq**
+- Real-time job pipeline dashboard (**Socket.io**) across 5+ stages
+- GitHub Portfolio Analyzer generating career audits
 
-📦 [GitHub](https://github.com/khushalkks/AptitudeX) &nbsp;|&nbsp; 🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/)
+🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/AptitudeX)
 
-</td></tr>
-</table>
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
 
----
+**🏥 [MediCenter](https://github.com/khushalkks/MediCenter)**
+`MERN` `Stripe` `Razorpay` `Cloudinary` `OpenRouter`
 
-<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
-<tr><td>
+Full-stack healthcare platform with patient, doctor & admin experiences.
 
-### 🏥 MediCenter
-**MERN Stack · Stripe · Razorpay · Cloudinary · OpenRouter**
+- Real-time slot booking — zero double-bookings
+- Dual payment checkout (**Stripe + Razorpay**) across 15+ doctor profiles
+- AI medical chatbot for symptom-based specialist matching
 
-Full-stack healthcare platform with patient, doctor, and admin experiences.
+🔗 [Live Demo](https://medicenter-frontend.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/MediCenter)
 
-- Patient portal, doctor panel & admin dashboard with revenue analytics
-- Real-time slot booking with automated calendar validation — zero double-bookings
-- Dual payment checkout (**Stripe + Razorpay**) with native INR support across 15+ doctor profiles
-- AI medical chatbot (**OpenRouter**) for symptom-based specialist recommendations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
 
-📦 [GitHub](https://github.com/khushalkks/MediCenter) &nbsp;|&nbsp; 🔗 [Live Demo](https://medicenter-frontend.vercel.app)
+**🧩 [Cortex — AI Learning Assistant](https://github.com/khushalkks/Codex)**
+`React` `TypeScript` `Vite` `Mermaid.js`
 
-</td></tr>
-</table>
+Modular AI learning platform unifying chat, visualization & summarization.
 
----
-
-<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
-<tr><td>
-
-### 🧩 Cortex — AI Learning Assistant
-**React · TypeScript · Vite · Mermaid.js**
-
-Modular AI-powered learning platform unifying chat, visualization, and summarization.
-
-- Interactive chatbot, mind-map generator & text summarizer in one dashboard
+- Interactive chatbot, mind-map generator & text summarizer
 - Dynamic concept visualization using **Mermaid.js**
-- Scalable **React + TypeScript** architecture with React Router across 6 learning modules
+- Scalable React + TypeScript architecture across 6 modules
 
-📦 [GitHub](https://github.com/khushalkks/Codex) &nbsp;|&nbsp; 🔗 [Live Demo](https://codex-psi-teal.vercel.app)
+🔗 [Live Demo](https://codex-psi-teal.vercel.app) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/Codex)
 
-</td></tr>
-</table>
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:16px;">
 
----
-
-<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
-<tr><td>
-
-### 🎙️ Bit-Interview
-**React · FastAPI · LangGraph · MongoDB · Redis**
+**🎙️ [Bit-Interview](https://github.com/khushalkks/bit-Interview)**
+`React` `FastAPI` `LangGraph` `MongoDB` `Redis`
 
 Production-grade, stateful AI technical interview simulator.
 
-- **FastAPI + React 19 + WebSockets** for low-latency live interview sessions
-- Multi-agent workflow (**LangGraph + LangChain**, Gemini 2.5 Pro) adapting difficulty in real time
-- In-browser coding sandbox (**Monaco Editor + Judge0**) across Python, JS, C++, Java
-- Layout-aware PDF resume parsing (**PyMuPDF + Sentence Transformers**) with ATS matching
-- Radar/line diagnostic dashboards (**Recharts**) backed by **Redis** cache + **MongoDB Atlas**
+- Multi-agent workflow (**LangGraph**, Gemini 2.5 Pro) adapting difficulty live
+- In-browser coding sandbox (**Monaco + Judge0**) across 4 languages
+- Resume-aware ATS matching via PyMuPDF + Sentence Transformers
 
-📦 [GitHub](https://github.com/khushalkks/bit-Interview) &nbsp;|&nbsp; 🔗 [Live Demo](https://bit-interview.vercel.app/)
+🔗 [Live Demo](https://bit-interview.vercel.app/) &nbsp;·&nbsp; 📦 [Code](https://github.com/khushalkks/bit-Interview)
 
-</td></tr>
+</td>
+</tr>
 </table>
-
----
 
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
@@ -168,89 +151,56 @@ Production-grade, stateful AI technical interview simulator.
 
 <br>
 
-<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
-<tr><td>
-
 ## 🏆 Achievements
 
 <table align="center" width="90%">
 
 <tr>
-
 <td width="10%" align="center">🥇</td>
-
 <td width="90%">
-
 <b>Hackathon Finalist — Hacksagon, IIITM Gwalior</b><br/>
-
 <sub>Built a Resume Tracker with performance analytics in 36 hours</sub>
-
 </td>
-
 </tr>
 
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-
 <td align="center">🛍️</td>
-
 <td>
-
 <b>Walmart Sparkathon 2025</b><br/>
-
 <sub>Contributed to scalable solution design in Walmart's national innovation challenge</sub>
-
 </td>
-
 </tr>
 
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-
 <td align="center">🌱</td>
-
 <td>
-
 <b>GirlScript Summer of Code (GSSoC) 2026</b><br/>
-
 <sub>7+ merged Pull Requests across open-source repositories</sub>
-
 </td>
-
 </tr>
 
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-
 <td align="center">🎃</td>
-
 <td>
-
 <b>Hacktoberfest Participant</b><br/>
-
 <sub>Multiple accepted PRs across GitHub projects</sub>
-
 </td>
-
 </tr>
 
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-
 <td align="center">🤖</td>
-
 <td>
-
 <b>Murf AI Coding Challenge</b><br/>
-
 <sub>Solved algorithmic challenges exploring AI-powered developer workflows</sub>
-
 </td>
-
 </tr>
 
 </table>
@@ -286,8 +236,6 @@ Production-grade, stateful AI technical interview simulator.
 </div>
 
 ---
-
-
 
 ## 🎯 Current Focus
 
