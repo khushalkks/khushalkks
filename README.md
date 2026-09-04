@@ -64,6 +64,9 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
+
 ### 🎯 AptitudeX
 **MERN Stack · OpenAI · Cohere · Groq · Socket.io**
 
@@ -76,7 +79,13 @@ AI career acceleration platform combining resume intelligence, live application 
 
 📦 [GitHub](https://github.com/khushalkks/AptitudeX) &nbsp;|&nbsp; 🔗 [Live Demo](https://aptitude-x-5cwk.vercel.app/)
 
+</td></tr>
+</table>
+
 ---
+
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
 
 ### 🏥 MediCenter
 **MERN Stack · Stripe · Razorpay · Cloudinary · OpenRouter**
@@ -90,7 +99,13 @@ Full-stack healthcare platform with patient, doctor, and admin experiences.
 
 📦 [GitHub](https://github.com/khushalkks/MediCenter) &nbsp;|&nbsp; 🔗 [Live Demo](https://medicenter-frontend.vercel.app)
 
+</td></tr>
+</table>
+
 ---
+
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
 
 ### 🧩 Cortex — AI Learning Assistant
 **React · TypeScript · Vite · Mermaid.js**
@@ -103,7 +118,13 @@ Modular AI-powered learning platform unifying chat, visualization, and summariza
 
 📦 [GitHub](https://github.com/khushalkks/Codex) &nbsp;|&nbsp; 🔗 [Live Demo](https://codex-psi-teal.vercel.app)
 
+</td></tr>
+</table>
+
 ---
+
+<table width="100%" style="border:2px solid #30363d; border-radius:12px;">
+<tr><td>
 
 ### 🎙️ Bit-Interview
 **React · FastAPI · LangGraph · MongoDB · Redis**
@@ -117,6 +138,9 @@ Production-grade, stateful AI technical interview simulator.
 - Radar/line diagnostic dashboards (**Recharts**) backed by **Redis** cache + **MongoDB Atlas**
 
 📦 [GitHub](https://github.com/khushalkks/bit-Interview) &nbsp;|&nbsp; 🔗 [Live Demo](https://bit-interview.vercel.app/)
+
+</td></tr>
+</table>
 
 ---
 
