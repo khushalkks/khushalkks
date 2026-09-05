@@ -131,7 +131,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 * 📊 **Interactive CV Dashboard** — Streamlit interface with custom uploads, threshold controls & training analytics
 * 📈 **Evaluation** — 96.85% mean recall and 90.13% pixel accuracy on the OSCD test split
 
-
 **[🔗 Live Demo](https://reactworld-2brozvokqbcqn2rhympkzh.streamlit.app/)** · **[📦 Source Code](https://github.com/khushalkks/React_World)**
 
 ---
@@ -141,7 +140,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 </p>
 
 ---
-
 
 ## 💼 Experience
 
@@ -273,6 +271,14 @@ vibe: Vibe Coding with Claude & Cursor 🤖
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/soulteary/github-readme-stats-action/main/.github/assets/banner.jpg" width="100%" style="border-radius:12px;" alt="GitHub Analytics Banner"/>
+</div>
 
 ---
 
