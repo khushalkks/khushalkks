@@ -273,16 +273,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
-## 📊 My GitHub Contributions
-
-<div align="center">
-[
-  (https://github.com/khushalkks/khushalkks/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
