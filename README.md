@@ -276,7 +276,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://anya-github-stats.vercel.app/api/stats?username=khushalkks&theme=deep_sea&compact=true&border_radius=14&hide_avatar_ring=true&hide_streak_emoji=true" width="100%" alt="GitHub Stats"/>
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=khushalkks&theme=deep_sea&compact=true&border_radius=14&hide_avatar_ring=true&hide_streak_emoji=true" width="600%" alt="GitHub Stats"/>
 </div>
 
 ---
