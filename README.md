@@ -276,8 +276,8 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 ## 📊 My GitHub Contributions
 
 <div align="center">
-
-![](./profile-3d-contrib/profile-night-green-animate.svg)
+[
+  (https://github.com/khushalkks/khushalkks/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
