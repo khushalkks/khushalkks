@@ -18,7 +18,7 @@
   <a href="#-about-me">About</a> •
   <a href="#-projects">Projects</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-contribution-snake">Snake 🐍</a> •
+  <a href="#-my-github-contributions">Snake 🐍</a> •
   <a href="#-github-analytics">Analytics</a> •
   <a href="#-connect-with-me">Contact</a>
 </p>
@@ -273,6 +273,16 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+## 📊 My GitHub Contributions
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -280,10 +290,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 </div>
 
 ---
-
-## 📊 My GitHub Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 📫 Connect With Me
 
