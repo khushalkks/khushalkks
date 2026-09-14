@@ -291,6 +291,16 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+## 📊 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushalkks/khushalkks/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="GitHub 3D Contribution Calendar" src="./profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+----
+
 ## 📫 Connect With Me
 
 <p align="center">
