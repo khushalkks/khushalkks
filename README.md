@@ -273,6 +273,18 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+*My GitHub contribution graph, animated.*
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -280,10 +292,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 </div>
 
 ---
-
-## 📊 My GitHub Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 📫 Connect With Me
 
