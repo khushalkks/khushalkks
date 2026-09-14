@@ -277,7 +277,7 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green-animate.svg)
 
 </div>
 
