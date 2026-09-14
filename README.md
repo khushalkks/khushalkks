@@ -13,16 +13,6 @@
   <img src="https://img.shields.io/github/followers/khushalkks?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/github/stars/khushalkks?label=Stars&style=flat-square&color=0e75b6" alt="stars" />
 </p>
-
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-my-github-contributions">Snake 🐍</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-connect-with-me">Contact</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -131,8 +121,6 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 * 📈 **Evaluation** — 96.85% mean recall and 90.13% pixel accuracy on the OSCD test split
 
 **[🔗 Live Demo](https://reactworld-2brozvokqbcqn2rhympkzh.streamlit.app/)** · **[📦 Source Code](https://github.com/khushalkks/React_World)**
-
----
 
 <p align="right">
   <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
