@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/github/followers/khushalkks?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/github/stars/khushalkks?label=Stars&style=flat-square&color=0e75b6" alt="stars" />
 </p>
----
 
 ## 👨‍💻 About Me
 
