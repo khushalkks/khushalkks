@@ -127,6 +127,89 @@ vibe: Vibe Coding with Claude & Cursor 🤖
 
 ---
 
+## Projects
+
+<div align="center">
+
+*A selection of full-stack, AI-powered & computer vision products I've built end-to-end.*
+
+</div>
+
+<br/>
+
+| Project | Domain | Core Stack | Links |
+|---|---|---|---|
+| **AptitudeX** | Career Intelligence | MERN, OpenAI, Cohere, Groq, Socket.io | [Demo](https://aptitude-x-5cwk.vercel.app/) · [Code](https://github.com/khushalkks/AptitudeX) |
+| **MediCenter** | Healthcare | MERN, Stripe, Razorpay, Cloudinary, OpenRouter | [Demo](https://medicenter-frontend.vercel.app) · [Code](https://github.com/khushalkks/MediCenter) |
+| **Cortex** | EdTech | React, TypeScript, Vite, Mermaid.js | [Demo](https://codex-psi-teal.vercel.app) · [Code](https://github.com/khushalkks/Codex) |
+| **Bit-Interview** | Interview Simulation | React, FastAPI, LangGraph, MongoDB, Redis | [Demo](https://bit-interview.vercel.app/) · [Code](https://github.com/khushalkks/bit-Interview) |
+| **SatVision** | Computer Vision | Python, PyTorch, Streamlit | [Demo](https://reactworld-2brozvokqbcqn2rhympkzh.streamlit.app/) · [Code](https://github.com/khushalkks/React_World) |
+
+<br/>
+
+### AptitudeX
+
+> AI career acceleration platform focused on resume intelligence, job tracking, and portfolio analysis.
+
+**Resume Intelligence** — ATS scoring, keyword extraction and personalized career roadmaps using OpenAI, Cohere and Groq.
+**Real-Time Job Tracking** — Socket.io-powered application pipeline across 5+ stages.
+**GitHub Portfolio Analyzer** — Automated career audits and role-fit insights.
+
+<sub>MERN · OpenAI · Cohere · Groq · Socket.io</sub>
+
+<br/>
+
+### MediCenter
+
+> Full-stack healthcare platform connecting patients, doctors, and administrators through a unified system.
+
+**Smart Appointment Booking** — Real-time slot validation designed to prevent double-bookings.
+**Dual Payment Integration** — Stripe + Razorpay checkout supporting INR payments across 15+ doctor profiles.
+**AI Medical Assistant** — Symptom-based specialist recommendations using OpenRouter.
+
+<sub>MERN · Stripe · Razorpay · Cloudinary · OpenRouter</sub>
+
+<br/>
+
+### Cortex — AI Learning Assistant
+
+> Modular AI learning platform combining conversational learning, visualization, and summarization.
+
+**AI Learning Assistant** — Interactive chatbot with learning-focused responses.
+**Visual Learning** — Dynamic mind-map and concept visualization using Mermaid.js.
+**Modular Architecture** — React + TypeScript application organized across 6 learning modules.
+
+<sub>React · TypeScript · Vite · Mermaid.js</sub>
+
+<br/>
+
+### Bit-Interview
+
+> Production-grade, stateful AI technical interview simulator designed for adaptive interview practice.
+
+**Multi-Agent Interview Workflow** — LangGraph + Gemini 2.5 Pro dynamically adapts interview difficulty.
+**Browser Coding Environment** — Monaco Editor + Judge0 supporting Python, JavaScript, C++ and Java.
+**Resume-Aware Evaluation** — PDF resume parsing and ATS matching using PyMuPDF + Sentence Transformers.
+
+<sub>React · FastAPI · LangGraph · MongoDB · Redis</sub>
+
+<br/>
+
+### SatVision — AI Satellite Change Detection
+
+> End-to-end computer vision system for detecting spatial, infrastructural, and land-use changes between bitemporal satellite images.
+
+**Lightweight U-Net** — 1.8M-parameter model with 6-channel bitemporal input trained on Sentinel-2 imagery.
+**Imbalance-Aware Training** — Combined BCE + Dice Loss for change-mask segmentation.
+**Interactive CV Dashboard** — Streamlit interface with custom uploads, threshold controls and training analytics.
+**Results** — 96.85% mean recall and 90.13% pixel accuracy on the OSCD test split.
+
+<sub>Python · PyTorch · Streamlit · Computer Vision</sub>
+
+<p align="right">
+  <a href="https://github.com/khushalkks?tab=repositories">View All Projects →</a>
+</p>
+
 ## 💼 Experience
 
 <table width="100%" style="border:2px solid #30363d; border-radius:12px;">
